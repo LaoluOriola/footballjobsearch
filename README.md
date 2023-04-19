@@ -22,3 +22,7 @@ Reccomended players is positions you have made vacancies for as a team will be s
 Players can upload highlights of themselves playing which will be on their profile and the explore page
 
 Players can also follow teams on the site, teams can follow players
+
+Admin can ban players if their highlights are fake
+
+Admin can ban teams if the team is fake
