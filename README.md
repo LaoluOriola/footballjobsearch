@@ -26,3 +26,14 @@ Players can also follow teams on the site, teams can follow players
 Admin can ban players if their highlights are fake
 
 Admin can ban teams if the team is fake
+
+
+https://app.infinityfree.net/accounts/epiz_33782235
+
+https://cpanel.epizy.com/panel/indexpl.php?id=64dcb0e604ae2e66837b9cec128c3918fb1a110e
+
+USERNAME
+epiz_33782235
+PASSWORD
+bTcAbg6O01iPz
+http://185.27.134.10/db_structure.php?db=epiz_33782235_herewegofutbol
